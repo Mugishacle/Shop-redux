@@ -28,7 +28,7 @@ This is a full stack e-commerce web application that was built using REACT. Appl
 
 ### Open your favorite web browser and enter the following web address to start using the website.
 
-https:///Mugishacle/Shop-redux.herokuapp.com/
+https://Mugishacle/Shop-redux.herokuapp.com/
 
 
 <a name="usage"></a>
