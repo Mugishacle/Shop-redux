@@ -80,7 +80,7 @@ No test commands available, if you would like any, please let me know.
 <a name="contributing"></a>
 ## 9. Contributing
 
-Please email Esteban Romero --> mugishaclement123@gmail.com
+Please email --> mugishaclement123@gmail.com
 
 <a name="questions"></a>
 ## 10. Questions
